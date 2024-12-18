@@ -7,6 +7,7 @@ const Home = () => {
     <SafeAreaView>
       <View style={{flex: 1, alignItems: 'center', justifyContent: 'center'}}>
         {/* <Text style={{fontSize: 40, color: '#e69138'}}>Home</Text> */}
+        jj;k;l
       </View>
     </SafeAreaView>
   );
